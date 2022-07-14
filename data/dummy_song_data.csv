@@ -1,0 +1,51 @@
+,name,album,artist,release_date,length,popularity,key,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,mode
+0,Knockin' On Heaven's Door,Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture),Bob Dylan,1973-07-13,149880,72,7,0.513,0.251,0.513,0.396,0.177,0.11,-13.061,0.0299,140.208,0.229,4,1
+1,Like a Rolling Stone,Highway 61 Revisited,Bob Dylan,1965-08-30,369600,71,0,0.482,0.731,0.482,0.721,0.0,0.189,-6.839,0.0321,95.263,0.557,4,1
+2,Hurricane,Desire,Bob Dylan,1976-01-16,512732,68,0,0.509,0.0409,0.509,0.827,0.0,0.12,-7.715,0.0782,135.601,0.743,4,1
+3,The Times They Are A-Changin',The Times They Are A-Changin',Bob Dylan,1964-01-13,192053,67,7,0.389,0.887,0.389,0.396,0.0,0.0828,-7.999,0.0332,171.86,0.585,3,1
+4,"Don't Think Twice, It's All Right",The Freewheelin' Bob Dylan,Bob Dylan,1963-05-27,217400,65,4,0.6,0.89,0.6,0.243,0.0022,0.249,-17.085,0.0366,110.535,0.468,4,1
+5,Mr. Tambourine Man,Bringing It All Back Home,Bob Dylan,1965-03-22,330533,64,5,0.39,0.794,0.39,0.31,0.0,0.379,-14.545,0.0676,177.515,0.584,4,1
+6,"Lay, Lady, Lay",Nashville Skyline,Bob Dylan,1969-04-09,197093,63,11,0.52,0.356,0.52,0.179,0.00344,0.131,-21.976,0.0454,155.746,0.407,4,0
+7,Shelter from the Storm,Blood On The Tracks,Bob Dylan,1975-01-17,301133,62,4,0.486,0.413,0.486,0.241,3.51e-05,0.0928,-17.337,0.0366,106.574,0.614,4,1
+8,The Man in Me,New Morning,Bob Dylan,1970-10-21,186213,60,8,0.419,0.532,0.419,0.517,0.0251,0.0785,-9.368,0.0284,145.109,0.905,4,1
+9,Subterranean Homesick Blues,Bringing It All Back Home,Bob Dylan,1965-03-22,141293,58,4,0.576,0.702,0.576,0.727,0.0,0.324,-9.973,0.05,173.854,0.751,4,0
+10,Girl from the North Country,Nashville Skyline,Bob Dylan,1969-04-09,220400,67,7,0.607,0.843,0.607,0.142,0.000197,0.121,-23.455,0.0382,118.867,0.305,4,1
+11,Tangled up in Blue,Blood On The Tracks,Bob Dylan,1975-01-17,341626,62,9,0.421,0.414,0.421,0.661,1.16e-06,0.0962,-13.126,0.0433,100.965,0.554,4,1
+12,I Want You,Blonde On Blonde,Bob Dylan,1966-06-20,185200,57,5,0.509,0.36,0.509,0.68,0.0,0.0824,-8.354,0.0372,99.924,0.802,4,1
+13,A Hard Rain's A-Gonna Fall,The Freewheelin' Bob Dylan,Bob Dylan,1963-05-27,412200,54,4,0.567,0.919,0.567,0.198,0.000871,0.135,-18.681,0.0327,92.467,0.321,4,1
+14,One More Cup of Coffee,Desire,Bob Dylan,1976-01-16,224733,55,9,0.533,0.167,0.533,0.473,2.02e-06,0.0899,-9.477,0.0304,139.193,0.305,4,0
+15,Simple Twist of Fate,Blood On The Tracks,Bob Dylan,1975-01-17,256800,55,4,0.409,0.665,0.409,0.264,0.00016,0.102,-16.273,0.0363,137.16,0.355,4,1
+16,Make You Feel My Love,Time Out Of Mind,Bob Dylan,1997-09-30,211000,55,1,0.375,0.78,0.375,0.219,0.00141,0.109,-13.112,0.0288,143.447,0.197,4,1
+17,All Along the Watchtower,John Wesley Harding,Bob Dylan,1967-12-27,151093,55,1,0.581,0.475,0.581,0.41,2.04e-05,0.0746,-12.617,0.0303,129.175,0.697,4,0
+18,Forever Young - Slow Version,Planet Waves,Bob Dylan,1974-01-17,296133,52,2,0.488,0.255,0.488,0.493,0.000181,0.102,-9.878,0.0464,135.093,0.389,4,1
+19,Buckets of Rain,Blood On The Tracks,Bob Dylan,1975-01-17,203506,52,4,0.514,0.539,0.514,0.234,0.00254,0.109,-18.245,0.0328,173.644,0.454,4,1
+20,Just Like a Woman,Blonde On Blonde,Bob Dylan,1966-06-20,290466,53,4,0.563,0.773,0.563,0.441,0.0,0.351,-9.902,0.0437,115.168,0.468,4,1
+21,"It's All over Now, Baby Blue",Bringing It All Back Home,Bob Dylan,1965-03-22,252066,52,4,0.699,0.655,0.699,0.197,0.0,0.0716,-14.792,0.0383,122.871,0.361,4,1
+22,"My Back Pages - Live at Madison Square Garden, New York, NY - October 1992",Bob Dylan - 30th Anniversary Concert Celebration [(Deluxe Edition) [Remastered]],Various Artists,1993-03-03,279906,53,4,0.439,0.00907,0.439,0.867,8.93e-06,0.679,-7.722,0.0618,129.103,0.318,4,1
+23,Changing of the Guards,Street-Legal,Bob Dylan,1978-06-15,397093,52,5,0.607,0.17,0.607,0.717,4.55e-06,0.032,-10.603,0.0371,124.576,0.821,4,0
+24,It Ain't Me Babe,Another Side Of Bob Dylan,Bob Dylan,1964-08-08,214440,51,7,0.572,0.743,0.572,0.302,0.0,0.125,-8.573,0.0286,105.54,0.389,4,1
+25,Boots of Spanish Leather,The Times They Are A-Changin',Bob Dylan,1964-01-13,277106,51,8,0.615,0.926,0.615,0.114,4e-06,0.166,-17.285,0.0357,101.189,0.401,4,1
+26,Tonight I'll Be Staying Here with You,Nashville Skyline,Bob Dylan,1969-04-09,201133,51,7,0.583,0.376,0.583,0.38,0.00685,0.0676,-17.607,0.0482,81.892,0.529,4,1
+27,Meet Me in the Morning,Blood On The Tracks,Bob Dylan,1975-01-17,258973,49,9,0.555,0.0809,0.555,0.467,0.000983,0.0707,-14.698,0.0443,145.268,0.591,4,1
+28,Ballad of a Thin Man,Highway 61 Revisited,Bob Dylan,1965-08-30,356706,51,11,0.473,0.695,0.473,0.574,0.0,0.509,-8.189,0.032,74.056,0.499,4,0
+29,Stuck Inside of Mobile with the Memphis Blues Again,Blonde On Blonde,Bob Dylan,1966-06-20,423666,49,9,0.466,0.301,0.466,0.747,0.0,0.12,-9.882,0.0473,135.527,0.628,4,1
+30,Jokerman,Infidels,Bob Dylan,1983-11-01,376160,49,10,0.664,0.234,0.664,0.65,0.000282,0.16,-11.168,0.0444,134.986,0.775,4,1
+31,Positively 4th Street - Single Version,The Essential Bob Dylan,Bob Dylan,2014-03-25,247866,48,6,0.556,0.817,0.556,0.463,0.0,0.116,-10.79,0.0268,109.586,0.764,4,1
+32,"If You See Her, Say Hello",Blood On The Tracks,Bob Dylan,1975-01-17,288000,50,2,0.383,0.768,0.383,0.224,0.0,0.087,-16.99,0.0274,102.94,0.466,4,1
+33,Isis,Desire,Bob Dylan,1976-01-16,418293,48,3,0.516,0.126,0.516,0.717,0.0,0.186,-7.142,0.0343,147.957,0.883,3,1
+34,Queen Jane Approximately,Highway 61 Revisited,Bob Dylan,1965-08-30,327466,47,0,0.369,0.778,0.369,0.691,1.39e-05,0.327,-6.234,0.0387,104.371,0.382,4,1
+35,If Not for You,New Morning,Bob Dylan,1970-10-21,161053,48,9,0.663,0.452,0.663,0.593,0.0453,0.226,-8.616,0.0322,139.479,0.884,4,1
+36,Visions of Johanna,Blonde On Blonde,Bob Dylan,1966-06-20,451133,49,9,0.59,0.321,0.59,0.484,0.0,0.0625,-10.424,0.0339,93.428,0.652,4,1
+37,Not Dark Yet,Time Out Of Mind,Bob Dylan,1997-09-30,387733,48,4,0.465,0.529,0.465,0.381,0.00835,0.111,-14.195,0.0316,126.372,0.227,4,1
+38,"It's Alright, Ma (I'm Only Bleeding)",Bringing It All Back Home,Bob Dylan,1965-03-22,449093,49,4,0.681,0.597,0.681,0.257,0.0,0.161,-15.348,0.0695,115.867,0.566,4,1
+39,Desolation Row,Highway 61 Revisited,Bob Dylan,1965-08-30,681400,48,4,0.432,0.673,0.432,0.605,0.0,0.129,-6.941,0.0306,109.227,0.647,4,1
+40,Rainy Day Women #12 & 35,Blonde On Blonde,Bob Dylan,1966-06-20,274066,48,5,0.556,0.458,0.556,0.592,0.0,0.0637,-7.378,0.0337,94.887,0.587,4,1
+41,To Be Alone with You,Nashville Skyline,Bob Dylan,1969-04-09,127600,47,9,0.707,0.614,0.707,0.326,3.06e-05,0.365,-19.686,0.0541,122.948,0.788,4,1
+42,Romance in Durango,Desire,Bob Dylan,1976-01-16,344333,44,2,0.328,0.236,0.328,0.541,0.0,0.386,-7.782,0.0321,169.035,0.582,4,1
+43,Every Grain of Sand,Shot Of Love,Bob Dylan,1981-08-12,371533,50,3,0.34,0.622,0.34,0.283,0.0,0.0684,-13.474,0.04,172.22,0.281,3,1
+44,Most of the Time,Oh Mercy,Bob Dylan,1989-09-22,304306,48,0,0.546,0.0699,0.546,0.624,0.328,0.169,-9.418,0.0403,146.435,0.266,4,1
+45,From a Buick 6,Highway 61 Revisited,Bob Dylan,1965-08-30,195693,42,0,0.287,0.756,0.287,0.72,3.41e-06,0.263,-6.231,0.0347,176.302,0.709,4,1
+46,Sara,Desire,Bob Dylan,1976-01-16,331493,47,4,0.43,0.36,0.43,0.504,0.0,0.0799,-8.997,0.0382,156.223,0.276,3,0
+47,All the Tired Horses,Self Portrait,Bob Dylan,1970-06-08,193093,38,0,0.335,0.939,0.335,0.205,6.25e-05,0.104,-10.869,0.032,135.725,0.254,4,1
+48,Sad-Eyed Lady of the Lowlands,Blonde On Blonde,Bob Dylan,1966-06-20,679106,41,2,0.301,0.604,0.301,0.385,0.0,0.0799,-10.755,0.0323,171.836,0.275,3,1
+49,She Belongs to Me,Bringing It All Back Home,Bob Dylan,1965-03-22,166706,46,9,0.729,0.699,0.729,0.382,0.0,0.152,-14.07,0.0367,112.179,0.637,4,1
