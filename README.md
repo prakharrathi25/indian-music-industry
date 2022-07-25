@@ -21,17 +21,6 @@ Trends in music keep changing and India has experienced similar trends over deca
 1. Spotify API 
 2. Genius Lyrics API 
 
-<img
-src="images/Spotify_Logo_CMYK_Green.png"
-raw=true
-alt="Spotify"
-style="margin-right: 10px;"/>
-
-<img
-src="images/Genius-logo.png"
-raw=true
-alt="Genius Lyrics"
-style="margin-right: 10px;"/>
 
 ## Detailed Presentation 
 
